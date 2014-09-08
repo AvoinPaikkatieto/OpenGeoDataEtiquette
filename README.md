@@ -75,7 +75,7 @@ Koordinaatistoihin ja korkeusjärjestelmiin liittyviä internetlähteitä on esi
 
 #### Aineistokohtaiset kysymykset
 
-Jos kysymys liittyy aineistoon, niin perehdy aina ensin aineiston metatietoihin ja tietotuotekuvauksiin. Tarvittaessa voit ottaa yhteyttä aineiston tuottajaan julkaisun yhteydessä mainittujen yhteystietojen kanssa. Huomioi kuitenkin eri organisaatioilla on eritasoiset mahdollisuudet tarjota henkilökohtaista palautepalvelua. Aineistokohtaista keskustelua esiintyy myös internetin keskustelupalstoilla.
+Jos kysymys liittyy aineistoon, niin perehdy aina ensin aineiston metatietoihin ja tietotuotekuvauksiin. Tarvittaessa voit ottaa yhteyttä aineiston tuottajaan julkaisun yhteydessä mainittujen yhteystietojen kanssa. Huomioi kuitenkin, että eri organisaatioilla on eritasoiset mahdollisuudet tarjota henkilökohtaista palautepalvelua. Aineistokohtaista keskustelua esiintyy myös internetin keskustelupalstoilla.
 
 
 ### Aineiston julkaisijan ja käyttäjän yhteistoiminta ja vuorovaikutus
