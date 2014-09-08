@@ -38,7 +38,7 @@ Erikseen on syytä huomioida: **Avoimen datan lisenssi koskee vain ao. avoimen d
 ### Tietoa on avattu yleiseen muotoon - tietoa voi joutua itse jalostamaan.
 
 Paikkatiedolle ei ole yhtä yhteistä vakioitua muotoa. Lähtien jo teknisistä syistä johtuen 
-aineistoa voidaan käsitellä (lue: joudutaan käsittelemään) useissa eri muodoissa. Kaytettyyn muotoon vaikuttavat:
+aineistoa voidaan käsitellä (lue: joudutaan käsittelemään) useissa eri muodoissa. Käytettyyn muotoon vaikuttavat:
 * Aineiston tietosisältö, tyyppi ja määrä
 * Tiedostot tai rajapinnat eri tyyppeineen
 * Koordinaatistot ja korkeusjärjestelmät
