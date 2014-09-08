@@ -16,6 +16,7 @@ Tämän oppaan ylläpito tapahtuu joukkoistetusti GitHubin avulla.
 ### Paikkatietohakemistot - Mistä paikkatietoja löytyy? 
 
 **Avoimen datan hakemistoja:**
+* Avoindata.fi: http://www.avoindata.fi
 * Helsinki Region Infoshare: http://www.hri.fi
 
 **Paikkatietojen hakemistopalveluita** (sisältää myös aineistoja, jotka eivät ole avointa dataa):
