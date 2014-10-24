@@ -101,5 +101,4 @@ On kuitenkin hyvä muistaa, että avoimen aineiston käytössä tuottajan ja kä
 Seuraavia kysymyksiä on suunniteltu käsiteltäväksi tämän oppaan yhteydessä. Oppaan tässä versiossa avoimia käsittelemättömiä aiheita ovat:
 
 * Ymmärrä tiedon sisältö ja merkitys (tiedon soveltuvuus)
-* Joukkoistettu tiedonkeruu
 * Mitä jatkojalosteen käyttäjän tulisi tietää tiedosta ja sen taustasta
