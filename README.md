@@ -26,6 +26,7 @@ Tämän oppaan ylläpito tapahtuu joukkoistetusti GitHubin avulla.
 
 **Avoimen datan keskustelufoorumeja:**
 * Avoindata.net, http://www.avoindata.net
+ - Kysymyksiä ja vastauksia liittyen avoimiin tietoaineistoihin ja niiden hyödyntämisestä.
 * Facebook:
  - Finnish Open Data Ecosystem, https://www.facebook.com/groups/fi.okfn/
  - Open Data Tampere, https://www.facebook.com/groups/opendatatre/
