@@ -24,6 +24,10 @@ Tämän oppaan ylläpito tapahtuu joukkoistetusti GitHubin avulla.
 ** hakusanalla "avoindata.fi" löytyvät avoimet paikkatietoaineistot ja -palvelut
 * Helsingin paikkatietohakemisto: http://ptp.hel.fi/paikkatietohakemisto
 
+**Avoimen datan keskustelufoorumeja:**
+* http://www.avoindata.net
+* Finnish Open Data ecosystem
+
 ### Lisenssin huomioiminen
 
 Avoimeen dataan liittyy aina avoimen datan lisenssi. Avoimen datan lisenssejä on pyritty 
