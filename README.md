@@ -21,6 +21,7 @@ Tämän oppaan ylläpito tapahtuu joukkoistetusti GitHubin avulla.
 
 **Paikkatietojen hakemistopalveluita** (sisältää myös aineistoja, jotka eivät ole avointa dataa):
 * Paikkatietohakemisto, Maanmittauslaitoksen hallinnoima valtakunnallinen palvelu:  http://www.paikkatietohakemisto.fi
+** hakusanalla "avoindata.fi" löytyvät avoimet paikkatietoaineistot ja -palvelut
 * Helsingin paikkatietohakemisto: http://ptp.hel.fi/paikkatietohakemisto
 
 ### Lisenssin huomioiminen
