@@ -27,8 +27,8 @@ Tämän oppaan ylläpito tapahtuu joukkoistetusti GitHubin avulla.
 **Avoimen datan keskustelufoorumeja:**
 * http://www.avoindata.net
 * Facebook:
- * Finnish Open Data Ecosystem, https://www.facebook.com/groups/gisvelhot/
- * GIS-velhot, https://www.facebook.com/groups/gisvelhot/
+ - Finnish Open Data Ecosystem, https://www.facebook.com/groups/gisvelhot/
+ - GIS-velhot, https://www.facebook.com/groups/gisvelhot/
 
 ### Lisenssin huomioiminen
 
